@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\upgrade\\Assignment5\\main\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F57218BE-3B85-FB0E-58C1-A04A2D329F0B}|main\\main.csproj|e:\\upgrade\\assignment5\\main\\main\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F57218BE-3B85-FB0E-58C1-A04A2D329F0B}|main\\main.csproj|solutionrelative:main\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F57218BE-3B85-FB0E-58C1-A04A2D329F0B}|main\\main.csproj|e:\\upgrade\\assignment5\\main\\main\\main.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F57218BE-3B85-FB0E-58C1-A04A2D329F0B}|main\\main.csproj|solutionrelative:main\\main.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 289,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\upgrade\\Assignment5\\main\\main\\Program.cs",
+              "RelativeDocumentMoniker": "main\\Program.cs",
+              "ToolTip": "E:\\upgrade\\Assignment5\\main\\main\\Program.cs",
+              "RelativeToolTip": "main\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwC4AAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-12T15:28:41.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.csproj",
+              "DocumentMoniker": "E:\\upgrade\\Assignment5\\main\\main\\main.csproj",
+              "RelativeDocumentMoniker": "main\\main.csproj",
+              "ToolTip": "E:\\upgrade\\Assignment5\\main\\main\\main.csproj",
+              "RelativeToolTip": "main\\main.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-12T15:29:08.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 111,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
